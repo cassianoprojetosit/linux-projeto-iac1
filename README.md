@@ -74,7 +74,12 @@ Notes:
 File Structure After Execution: 
 
   /  
-  ├── publico/    (rwx for everyone)
-  ├── adm/        (rwx for GRP_ADM only)
-  ├── ven/        (rwx for GRP_VEN only)
-  └── sec/        (rwx for GRP_SEC only)
+  
+  ├─ publico/    (rwx for everyone)
+  
+  ├─ adm/        (rwx for GRP_ADM only)
+  
+  ├─ ven/        (rwx for GRP_VEN only)
+  
+  ├─ sec/        (rwx for GRP_SEC only)
+  
